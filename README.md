@@ -1,13 +1,13 @@
 ### Hi there I'm Anna👋
 
-## I’m currently studying at UBC as a CS + Stat Combined Major @ UBC
+# I’m currently studying at UBC as a CS + Stat Combined Major @ UBC
 
 - 📫 How to reach me: annatao2004@gmail.com
 
-## 🤝 Connect with me:
+# 🤝 Connect with me:
 
 
-## 🌱 I'm currently learning
+# 🌱 I'm currently learning
 
 - 📱 React Native
 - React Context API
