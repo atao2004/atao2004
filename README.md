@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">An aspiring full-stack developer with experience in front-end technologies such as HTML, CSS, and Javascript, and back-end technologies such as React.JS, C/C++/C#, and SQL.</h3>
-
-- 🌱 I’m currently learning **React.JS**
+<h3 align="center">An aspiring full-stack developer with experience in front-end technologies such as HTML, CSS, Javascript and React.JS, and back-end technologies such as Express.JS, Node.JS, C/C++/C#, and SQL.</h3>
 
 - 📫 How to reach me **annatao2004@gmail.com**
 
